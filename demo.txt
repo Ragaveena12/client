@@ -1,1 +1,2 @@
-This is first Version
+git init
+git status
